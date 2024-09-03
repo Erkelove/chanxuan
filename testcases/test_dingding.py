@@ -49,7 +49,7 @@ class TestMyHandler():
     #     return signature_enc
     def test_on_modified(self):
         secret = self.secret
-        message = 'File has been modified'
+        message = 'File has been modified1'
         # message = self.encrypt_message(secret, message)
         self.send_to_dingding(message)
 
