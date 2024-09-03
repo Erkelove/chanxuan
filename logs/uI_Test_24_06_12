@@ -1,0 +1,4 @@
+2024-06-12 12:28:16,198-getAuth.py[line:34]-INFO: {'errCode': 50000, 'errMsg': '参数错误', 'code': 50000, 'msg': '参数错误', 'rid': '7680580c8c15d532bf93649d9537f0a2'}
+2024-06-12 12:28:37,168-getAuth.py[line:34]-INFO: {'errCode': 50000, 'errMsg': '参数错误', 'code': 50000, 'msg': '参数错误', 'rid': 'b70b7ea86d4a0bfa5d395bf13a0a89ef'}
+2024-06-12 12:30:08,432-getAuth.py[line:35]-INFO: {'errCode': 50000, 'errMsg': '参数错误', 'code': 50000, 'msg': '参数错误', 'rid': '82da45689bda112dcd3b6502a1be82a0'}
+2024-06-12 12:32:51,092-getAuth.py[line:35]-INFO: {'errCode': 50000, 'errMsg': '参数错误', 'code': 50000, 'msg': '参数错误', 'rid': 'bcde798d81238bcc7aa4f184445736e8'}

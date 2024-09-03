@@ -1,0 +1,40 @@
+2024-06-14 10:54:50,550-getAuth.py[line:45]-INFO: {'code': 40005, 'errCode': 40005, 'errMsg': 'token无效', 'extraData': {'image': 'https://cdn-static.chanmama.com/jx/code/operationCode.png'}, 'msg': 'token无效'}
+2024-06-14 15:52:35,023-test_Handcards.py[line:13]-INFO: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBpZCI6IjEwMDA5IiwiZXhwIjoxNzIwOTQzNTU0LCJpYXQiOjE3MTgzNTE1NTQsImlkIjo0NjEzNTc5NSwia2lkIjoiQ0FTLURMTVlIQlNDSE8xUy1BVVNJU0IifQ.ThQVb5d4plRc3cp0e7EUmpRkVebNxvAvwGapEj7DYIU
+2024-06-14 15:55:57,861-test_Handcards.py[line:13]-INFO: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBpZCI6IjEwMDA5IiwiZXhwIjoxNzIwOTQzNzU3LCJpYXQiOjE3MTgzNTE3NTcsImlkIjo0NjEzNTc5NSwia2lkIjoiQ0FTLURMTVlIQlNDSE8xUy1BVVNJU0IifQ.AZdOcrNMewzSlAMcOJkypTInw6t9TYp19qeL9lhmmZM
+2024-06-14 15:57:16,206-test_Handcards.py[line:13]-INFO: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBpZCI6IjEwMDA5IiwiZXhwIjoxNzIwOTQzODM2LCJpYXQiOjE3MTgzNTE4MzYsImlkIjo0NjEzNTc5NSwia2lkIjoiQ0FTLURMTVlIQlNDSE8xUy1BVVNJU0IifQ.exf_X6o-fYnuYTYjTbGeud7NOsVBkYLfiXwt6fGjmTI
+2024-06-14 16:01:13,338-test_Handcards.py[line:13]-INFO: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBpZCI6IjEwMDA5IiwiZXhwIjoxNzIwOTQ0MDczLCJpYXQiOjE3MTgzNTIwNzMsImlkIjo0NjEzNTc5NSwia2lkIjoiQ0FTLURMTVlIQlNDSE8xUy1BVVNJU0IifQ.WbIQWQBp_TO-UqevUiwHc27_iPQhv6gJHvcSlGDti74
+2024-06-14 16:01:13,339-req.py[line:18]-INFO: https://cmm-jx-test-api.cds8.cn/v1/handcard/importFromText
+2024-06-14 16:01:13,339-req.py[line:20]-INFO: POST
+2024-06-14 16:01:13,339-req.py[line:22]-INFO: None
+2024-06-14 16:01:13,339-req.py[line:25]-INFO: {"text": 3447253570955654347}
+2024-06-14 16:01:36,405-test_Handcards.py[line:13]-INFO: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBpZCI6IjEwMDA5IiwiZXhwIjoxNzIwOTQ0MDk2LCJpYXQiOjE3MTgzNTIwOTYsImlkIjo0NjEzNTc5NSwia2lkIjoiQ0FTLURMTVlIQlNDSE8xUy1BVVNJU0IifQ.icJWWGUhfoSpwj0TIjUTww0kx9CYLocX1rYnH-gUtyA
+2024-06-14 16:01:36,407-req.py[line:18]-INFO: https://cmm-jx-test-api.cds8.cn/v1/handcard/importFromText
+2024-06-14 16:01:36,407-req.py[line:20]-INFO: POST
+2024-06-14 16:01:36,407-req.py[line:22]-INFO: None
+2024-06-14 16:01:36,407-req.py[line:25]-INFO: {"text": "3447253570955654347"}
+2024-06-14 16:03:14,393-test_Handcards.py[line:13]-INFO: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBpZCI6IjEwMDA5IiwiZXhwIjoxNzIwOTQ0MTk0LCJpYXQiOjE3MTgzNTIxOTQsImlkIjo0NjEzNTc5NSwia2lkIjoiQ0FTLURMTVlIQlNDSE8xUy1BVVNJU0IifQ.oNu0gcpbSu1Ob5Gu_kbwVbhRhLIAIqz_ODbHbI5m6uQ
+2024-06-14 16:03:14,393-req.py[line:18]-INFO: https://cmm-jx-test-api.cds8.cn/v1/handcard/importFromText
+2024-06-14 16:03:14,394-req.py[line:20]-INFO: POST
+2024-06-14 16:03:14,394-req.py[line:22]-INFO: None
+2024-06-14 16:03:14,394-req.py[line:25]-INFO: {"text": "3447253570955654347"}
+2024-06-14 16:04:45,473-test_Handcards.py[line:13]-INFO: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBpZCI6IjEwMDA5IiwiZXhwIjoxNzIwOTQ0Mjg1LCJpYXQiOjE3MTgzNTIyODUsImlkIjo0NjEzNTc5NSwia2lkIjoiQ0FTLURMTVlIQlNDSE8xUy1BVVNJU0IifQ.4nSwubSzeoAg6qcc24ch62GwBDnzU6WX7hv1MPQd9Qc
+2024-06-14 16:04:45,474-req.py[line:18]-INFO: https://cmm-jx-test-api.cds8.cn/v1/handcard/importFromText
+2024-06-14 16:04:45,474-req.py[line:20]-INFO: POST
+2024-06-14 16:04:45,474-req.py[line:22]-INFO: None
+2024-06-14 16:04:45,474-req.py[line:25]-INFO: {"text": "3447253570955654347"}
+2024-06-14 16:04:45,474-req.py[line:27]-INFO: {"text": "3447253570955654347"}
+2024-06-14 16:04:45,612-req.py[line:29]-INFO: {"text": "3447253570955654347"}
+2024-06-14 16:07:25,778-test_Handcards.py[line:13]-INFO: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBpZCI6IjEwMDA5IiwiZXhwIjoxNzIwOTQ0NDQ1LCJpYXQiOjE3MTgzNTI0NDUsImlkIjo0NjEzNTc5NSwia2lkIjoiQ0FTLURMTVlIQlNDSE8xUy1BVVNJU0IifQ.90pPwgUezL7CnR2W-ASVvRHVrMFl32hlnsms28AJ8m8
+2024-06-14 16:07:25,779-req.py[line:18]-INFO: https://cmm-jx-test-api.cds8.cn/v1/handcard/importFromText
+2024-06-14 16:07:25,779-req.py[line:20]-INFO: POST
+2024-06-14 16:07:25,779-req.py[line:22]-INFO: None
+2024-06-14 16:07:25,779-req.py[line:25]-INFO: {"text": "3447253570955654347"}
+2024-06-14 16:07:25,779-req.py[line:27]-INFO: {'x-authorization-cx': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBpZCI6IjEwMDA5IiwiZXhwIjoxNzIwOTQ0NDQ1LCJpYXQiOjE3MTgzNTI0NDUsImlkIjo0NjEzNTc5NSwia2lkIjoiQ0FTLURMTVlIQlNDSE8xUy1BVVNJU0IifQ.90pPwgUezL7CnR2W-ASVvRHVrMFl32hlnsms28AJ8m8'}
+2024-06-14 16:07:25,934-req.py[line:29]-INFO: {"text": "3447253570955654347"}
+2024-06-14 16:08:03,426-test_Handcards.py[line:13]-INFO: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBpZCI6IjEwMDA5IiwiZXhwIjoxNzIwOTQ0NDgzLCJpYXQiOjE3MTgzNTI0ODMsImlkIjo0NjEzNTc5NSwia2lkIjoiQ0FTLURMTVlIQlNDSE8xUy1BVVNJU0IifQ.FPMY0HHYqnB1tkoEABGJHxAKo9Fwfd7kWErHMGoUaU8
+2024-06-14 16:08:03,427-req.py[line:18]-INFO: https://cmm-jx-test-api.cds8.cn/v1/handcard/importFromText
+2024-06-14 16:08:03,427-req.py[line:20]-INFO: POST
+2024-06-14 16:08:03,427-req.py[line:22]-INFO: None
+2024-06-14 16:08:03,427-req.py[line:25]-INFO: {"text": "3447253570955654347"}
+2024-06-14 16:08:03,427-req.py[line:27]-INFO: {'x-authorization-cx': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJhcHBpZCI6IjEwMDA5IiwiZXhwIjoxNzIwOTQ0NDgzLCJpYXQiOjE3MTgzNTI0ODMsImlkIjo0NjEzNTc5NSwia2lkIjoiQ0FTLURMTVlIQlNDSE8xUy1BVVNJU0IifQ.FPMY0HHYqnB1tkoEABGJHxAKo9Fwfd7kWErHMGoUaU8'}
+2024-06-14 16:08:03,658-req.py[line:30]-INFO: {'errCode': 0, 'errMsg': 'success', 'code': 0, 'msg': 'success', 'data': {'uuid': '24102ee4-364b-4a6c-a0cf-c02eca10e63d'}, 'rid': '4409f599ddc4dce1ffb96f33c4ec6822'}

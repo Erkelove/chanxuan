@@ -1,0 +1,18 @@
+-
+  feature: 手卡精灵
+  story: 抖音商品ID或练级创建手卡精灵
+  title: 测试抖音商品ID或练级创建手卡精灵成功"
+  request:
+    url: https://cmm-jx-test-api.cds8.cn/v1/handcard/importFromText
+    method: POST
+    headers:
+      X-Authorization-Cx: "${auth}"
+    data:
+      text: "3447253570955654347"
+#  parametrize:
+#    - ["title", "text"]
+#    - ["测试抖音商品ID或练级创建手卡精灵成功", "3447253570955654347"]
+#    - ["测试抖音商品ID或练级创建手卡精灵失败", "3447253570955654111"]
+  validate: null
+
+

@@ -1,0 +1,13 @@
+-
+  feature: 榜单
+  story: 图文榜
+  title: 图文榜页面列表数据监控
+  request:
+    url: https://cmm-jx-test-api.cds8.cn/v1/product/rank
+    method: GET
+    headers:
+      X-Authorization-Cx: "${token}"
+      x-platform-id: '10009'
+    params:
+      encode: cOdUgIdOchTDeID7JVl4uH9agnTgGzC+U7qAI81LuLvRmursmXaZ5H73459dVCDWwv/I6iMFJpPZsFs/aDjF5e5Z/UCI9+K5wEfj+eVgRks+y5E6DyPuMdM+RwbHv6wNFgQWB1dLk7k09RyOKl1JS8FTPIBDV5p97gR2nbvw6MXbZY1StEmSJjm9K0/yuJGW3CXqmNaQyO0pWu+nl8xlf4cuEKmDgVO0zjo73GpDkWY=
+      encrypt: 1

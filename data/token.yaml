@@ -1,0 +1,28 @@
+-
+  feature: 登录模块
+  story: 获取登录接口token
+  title: 测试获取登录接口token成功
+  request:
+    url: https://cmm-cas-test.cds8.cn/v2/cas/authorize
+    method: POST
+    data:
+      "device": PC
+      "appId": 10007
+      "grant_type": code
+      "mobile": "18759738338"
+      "code": "888888"
+  extract:
+    token: "$.data.token"  #接口返回值的jsonpath提取值
+
+-
+  feature: 登录模块
+  story: 获取登录接口token
+  title: 测试获取登录接口token成功
+  request:
+    url: https://cmm-jx-test-api.cds8.cn/v1/user/createCommonToken
+    method: POST
+    data:
+      appId: 10007
+      token: '${token}' #"{{token_data.extract.data}}"
+  extract:
+    auth: "$.data.token" #接口返回值的jsonpath提取值
